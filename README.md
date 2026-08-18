@@ -63,7 +63,7 @@ $ ls -la ./projects/
 
 | # | repo | stack | สถานะ |
 |---|------|-------|-------|
-| 01 | [`peek_log`](https://github.com/TannyHellGuys/peek_log) | Python · CLI | 🟢 active |
+| 01 | [`peek_log`](https://github.com/TannyHellGuys/peek) | Python · CLI | 🟢 active |
 | 02 | [`cavemanmodifyforroblox`](https://github.com/TannyHellGuys/cavemanmodifyforroblox) | Lua · Roblox | 🟢 active |
 
 ---
