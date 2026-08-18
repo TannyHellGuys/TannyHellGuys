@@ -61,11 +61,9 @@ $ git log --stat --author="Tan"
 $ ls -la ./projects/
 ```
 
-| # | repo | stack | สถานะ |
+| # | repo | stack | status |
 |---|------|-------|-------|
 | 01 | [`peek_log`](https://github.com/TannyHellGuys/peek) | Python · CLI | 🟢 active |
-| 02 | [`cavemanmodifyforroblox`](https://github.com/TannyHellGuys/cavemanmodifyforroblox) | Lua · Roblox | 🟢 active |
-
 ---
 
 <div align="center">
