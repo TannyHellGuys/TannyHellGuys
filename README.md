@@ -14,11 +14,10 @@ $ whoami
 ```yaml
 name:      "Tan"
 handle:    "@TannyHellGuys"
-role:      "Backend / Data Engineer"
+role:      "Larping"
 studio:    "laziesstudio.com"
-focus:     [ "APIs", "ETL pipelines", "databases", "clean data" ]
-learning:  [ "Rust", "distributed systems" ]
-motto:     "if it's not reproducible, it didn't happen"
+focus:     [ "Larp", "Print", "destroy databases", "kill data" ]
+learning:  [ "Rust", "English" ]
 ```
 
 ---
