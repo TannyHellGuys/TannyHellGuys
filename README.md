@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=%3E+building+data+pipelines...;%3E+turning+chaos+into+clean+tables;%3E+coffee+in%2C+queries+out;%3E+cat+resume.txt)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=%3E+Larping+doing+nothing...;%3E+turning+chaos+into+clean+tables;%3E+coffee+in%2C+queries+out;%3E+cat+resume.txt)](https://git.io/typing-svg)
 
 </div>
 
