@@ -5,11 +5,6 @@
 </div>
 
 ---
-
-```bash
-$ whoami
-```
-
 ```yaml
 name:      "Tan"
 handle:    "@TannyHellGuys"
@@ -21,19 +16,7 @@ learning:  [ "Rust", "English" ]
 
 ---
 
-```bash
-$ cat tech_stack.txt
-```
 
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00FF9C)
-![Go](https://img.shields.io/badge/Go-000000?style=for-the-badge&logo=go&logoColor=00FF9C)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=00FF9C)
-![Redis](https://img.shields.io/badge/Redis-000000?style=for-the-badge&logo=redis&logoColor=00FF9C)
-![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=00FF9C)
-![Kafka](https://img.shields.io/badge/Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=00FF9C)
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=00FF9C)
 
 </div>
 
