@@ -14,9 +14,6 @@ focus:     [ "Larp", "Print", "destroy databases", "kill data" ]
 learning:  [ "Rust", "English" ]
 ```
 
----
-
-
 
 </div>
 
@@ -40,7 +37,7 @@ $ git log --stat --author="Tan"
 ---
 
 ```bash
-$ ls -la ./projects/
+$ /projects/
 ```
 
 | # | repo | stack | status |
@@ -51,7 +48,7 @@ $ ls -la ./projects/
 <div align="center">
 
 ```bash
-$ curl -s connect://TannyHellGuys
+$ TannyHellGuys
 ```
 
 [![Website](https://img.shields.io/badge/laziesstudio.com-000000?style=for-the-badge&logo=firefox&logoColor=00FF9C)](https://laziesstudio.com/)
@@ -61,8 +58,5 @@ $ curl -s connect://TannyHellGuys
 
 <img src="https://komarev.com/ghpvc/?username=TannyHellGuys&style=flat-square&color=00FF9C&label=visitors" />
 
-```
-[ EOF ]  ▓▓▓▓▓▓▓▓▓▓ 100%
-```
 
 </div>
